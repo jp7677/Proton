@@ -11,4 +11,4 @@ Proton.  For example, some users may wish to use a different version of Wine wit
 a particular title.
 
 ---
-This is a stripped-down version of Proton that uses a locally installed Wine as-is. Wine must be installed into `/usr/` and every extra components like DXVK and FAudio needs to be setup manually for the desired prefixes. Note that any Steam-API usage will fail since the Wine version that comes with Proton has been patched to interact with the `steamclient` libraby.
+This is a stripped-down version of Proton that uses a locally installed Wine as-is. Wine must be installed into `/usr/` and every extra components like DXVK and FAudio needs to be setup manually for the desired prefixes. Note that any Steam-API usage will fail since the Wine version that comes with Proton has been patched to interact with the `steamclient` library.
